@@ -80,7 +80,7 @@ inoremap <Up>    <ESC>:echoe "Use k"<CR>
 inoremap <Down>  <ESC>:echoe "Use j"<CR>
 
 #set tab to 2 spaces
-filetype plugin indent on
+#filetype plugin indent on
 " show existing tab with 2 spaces width
 set tabstop=2
 set softtabstop=2
